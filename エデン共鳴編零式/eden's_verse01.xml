@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <name>希望の園エデン零式：共鳴編１</name>
+  <rev>draft</rev>
+  <description>希望の園エデン零式：共鳴編１</description>
+  <author>maabe</author>
+  <license>CC BY-SA</license>
+  <zone>Eden's Verse: Fulmination (Savage)</zone>
+  <locale>JA</locale>
+  <start>0039:戦闘開始！</start>
+
+  <s name="P1">
+  <a time="006.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="018.0" text="武具生成" sync="ラムウは「武具生成」の構え。" notice="短い槍に移動" />
+  <a time="030.0" text="裁きの界雷" sync="ラムウは「裁きの界雷」の構え。" notice="全体範囲" />
+  <a time="039.0" text="分離体生成" sync="ラムウは「分離体生成」の構え。" notice="分離体生成。" />
+  <a time="049.0" sync="ラムウ:雷喰らいて圧を高めん……！" />
+  <a time="049.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="057.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="069.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="077.0" text="雷雲生成" sync="ラムウは「雷雲生成」の構え。" notice="雷雲生成。球拾い" />
+  <a time="091.0" text="ライトニングフォース" sync="ラムウは「ライトニングフォース」の構え。" notice="ノックバック" />
+  <a time="108.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="114.0" sync="ラムウ:我が化身の騎行で、突き崩してくれる……！" notice="短距離ノックバック"/>
+  <a time="114.0" sync="ラムウ:見よ、圧を高めし我が化身の力を……！" notice="長距離ノックバック"/>
+  <a time="114.0" text="思念体生成" sync="ラムウは「思念体生成」の構え。" notice="思念体生成。" />
+  <a time="133.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="143.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="153.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="159.0" text="サンダーストーム" sync="ラムウは「サンダーストーム」の構え。" notice="散開。気合よけ" />
+  <a time="186.0" text="分離体生成" sync="ラムウは「分離体生成」の構え。" notice="分離体生成。" />
+  <a time="194.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="205.0" text="ステップトリーダー" sync="ラムウは「ステップトリーダー」の構え。" notice="たけのこ" />
+  <a time="216.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="228.0" text="フォーティーン・チャージボルト" sync="ラムウは「フォーティーン・チャージボルト」の構え。" notice="整列" />
+  <a time="276.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="284.0" text="ステップトリーダー" sync="ラムウは「ステップトリーダー」の構え。" notice="ドーナツ" />
+  <a time="293.0" text="チェインライトニング" sync="ラムウは「チェインライトニング」の構え。" notice="定位置について" />
+  <a time="301.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="312.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="326.0" text="分離体生成" sync="ラムウは「分離体生成」の構え。" notice="分離体生成。" />
+  <a time="334.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="342.0" text="サンダーストーム" sync="ラムウは「サンダーストーム」の構え。" notice="散開。気合よけ" />
+  <a time="363.0" text="ステップトリーダー" sync="ラムウは「ステップトリーダー」の構え。" notice="たけのこ" />
+  <a time="376.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="383.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="393.0" text="フォーティーン・チャージボルト" sync="ラムウは「フォーティーン・チャージボルト」の構え。" notice="整列" />
+  <a time="438.0" text="チャージボルト" sync="ラムウは「チャージボルト」の構え。" notice="球拾い" />
+  <a time="445.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="458.0" text="雷雲生成" sync="ラムウは「雷雲生成」の構え。" notice="雷雲生成。" />
+  <a time="473.0" text="ライトニングフォース" sync="ラムウは「ライトニングフォース」の構え。" notice="ノックバック" />
+  <a time="482.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+  <a time="500.0" text="チェインライトニング" sync="ラムウは「チェインライトニング」の構え。" notice="定位置について" />
+  <a time="508.0" text="痛打" sync="ラムウは「痛打」の構え。" notice="MT大ダメージ" />
+  <a time="512.0" text="裁きの熱雷" sync="ラムウは「裁きの熱雷」の構え。" notice="全体範囲" />
+</timeline>
